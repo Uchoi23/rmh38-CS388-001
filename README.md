@@ -1,2 +1,1 @@
-# rmh38-CS388-001
-Git repo for CS 388 Android Development
+# Github Repo for CS388 - Android Development
