@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Hello World</string>
+    <string name="press_me_button">Say Hello!</string>
+    <string name="raphael_intro">Hello World! My name is Raphael. I am interested in Android Development!</string>
+    <string name="todo">TODO</string>
+    <style name="Base.Theme.HelloWorld" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.HelloWorld" parent="Base.Theme.HelloWorld"/>
+</resources>

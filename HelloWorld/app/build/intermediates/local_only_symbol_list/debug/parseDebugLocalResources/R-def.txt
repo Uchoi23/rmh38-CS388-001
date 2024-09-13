@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable pngtree_vibrant_leaf_texture_patterns_of_green_leaves_on_contrasting_dark_and_image_13777254
+drawable ty80ny9uyv2b1
+id intro_button
+id intro_description
+id intro_image
+id main
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string press_me_button
+string raphael_intro
+string todo
+style Base.Theme.HelloWorld
+style Theme.HelloWorld
+xml backup_rules
+xml data_extraction_rules
