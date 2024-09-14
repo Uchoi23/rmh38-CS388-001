@@ -32,17 +32,17 @@ The following **stretch** functionality is implemented:
     ![doubleTapUpgrade](https://github.com/user-attachments/assets/d2ef47ad-24e6-4e29-af58-9837863dc504)
 
     
-- [ ] (2 pts) **User can exchange taps for a custom icon button.**  
+- [x] (2 pts) **User can exchange taps for a custom icon button.**  
   - X taps for a custom icon button. (Default: 100 taps)
     - Use a Toast for positive (purchase) or negative (can't afford) notifications.
     ![changeTapButtonUpgrade](https://github.com/user-attachments/assets/dbed0c6e-bae3-46f8-ad42-34627b9273f5)
 
     
-- [ ] (2 pts) **User can customize the app's theme (e.g., a dog-themed background with a paw print button).**  
+- [x] (2 pts) **User can customize the app's theme (e.g., a dog-themed background with a paw print button).**  
   ![Tapped0](https://github.com/user-attachments/assets/801ff6ff-e4ad-4879-9d80-065237a87f6f)
 
 
-- [ ] (+2 bonus pts) **User has progressively difficult goals to reach in terms of the number of taps accumulated.**  
+- [x] (+2 bonus pts) **User has progressively difficult goals to reach in terms of the number of taps accumulated.**  
   - Display each goal on the screen, and track the total number of goals reached.
   - Use a Toast to notify of a reached goal.
   - ![goalReachedFeature](https://github.com/user-attachments/assets/1a10aedd-1a0d-4bf0-859b-f0a0ef3f56c8)
