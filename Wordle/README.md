@@ -36,7 +36,7 @@ Here's a walkthrough of implemented user stories:
 - ![wordleGif1](https://github.com/user-attachments/assets/9c291397-7ebd-4b6c-a014-a8106453770a)
 
 - Using up all attempts
-- ![wordleGif2](https://github.com/user-attachments/assets/091211cd-742e-423d-81d8-ab838b4209ef)
+- ![ezgif-2-14ec04bbea](https://github.com/user-attachments/assets/34267e3c-6fe0-43ea-9fed-2b0d35e797cc)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ezgif.com
