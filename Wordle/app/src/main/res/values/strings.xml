@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Wordle</string>
+    <string name="my_hint">(i.e Card, Bone, Roof)</string>
+</resources>
