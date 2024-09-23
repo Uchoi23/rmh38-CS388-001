@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="sageBrush">#517470</color>
+    <color name="eucalyptus">#9CA89E</color>
+    <color name="bluegreen">#57BCBE</color>
+    <color name="defaultColor">#FAFAFA</color>
+</resources>
