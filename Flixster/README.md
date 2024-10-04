@@ -1,4 +1,4 @@
-# Android Project 3 - *Flixter+e*
+# Android Project 3 - *Flixter+*
 
 Submitted by: **Raphael Joseph Holganza**
 
