@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="6dp">
+
+    <ImageView
+        android:id="@+id/show_image"
+        android:layout_width="133dp"
+        android:layout_height="172dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <!-- Movie Title -->
+    <TextView
+        android:id="@+id/show_title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:text="TextView"
+        app:layout_constraintBottom_toTopOf="@+id/show_description"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/show_image"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintVertical_bias="0.5" />
+
+    <!-- Movie Description -->
+    <TextView
+        android:id="@+id/show_description"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:maxLines="3"
+        android:ellipsize="end"
+        app:layout_constraintTop_toBottomOf="@+id/show_title"
+        app:layout_constraintStart_toEndOf="@+id/show_image"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.0" />
+
+    <TextView
+        android:id="@+id/showRating"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:maxLines="3"
+        android:text="TextView"
+        app:layout_constraintBottom_toTopOf="@+id/show_description"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/show_image"
+        app:layout_constraintTop_toBottomOf="@+id/show_title"
+        app:layout_constraintVertical_bias="0.347" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
