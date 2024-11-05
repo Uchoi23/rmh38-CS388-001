@@ -31,10 +31,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![BitFitGif](https://github.com/user-attachments/assets/ca5e2208-519d-4e24-978a-8bf15e3f778e)
+- ![BitFitGif](https://github.com/user-attachments/assets/ca5e2208-519d-4e24-978a-8bf15e3f778e)
 
 <!-- Replace this with whatever GIF tool you used! -->
-ezgif.com  
+Created with ezgif.com  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
