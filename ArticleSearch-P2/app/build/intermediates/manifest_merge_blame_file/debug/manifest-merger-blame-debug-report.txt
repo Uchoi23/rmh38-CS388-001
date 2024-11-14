@@ -1,0 +1,116 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.codepath.articlesearch"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:6:5-67
+11-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:7:5-79
+12-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:7:22-76
+13
+14    <application
+14-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:10:5-33:19
+15        android:name="com.codepath.articlesearch.ArticleApplication"
+15-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:11:9-43
+16        android:allowBackup="true"
+16-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:12:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.8.0] /Users/raphaelholganza/.gradle/caches/transforms-3/8009c6ffa36efd1b8a797cfae7212072/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+18        android:dataExtractionRules="@xml/data_extraction_rules"
+18-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:13:9-65
+19        android:debuggable="true"
+20        android:extractNativeLibs="false"
+21        android:fullBackupContent="@xml/backup_rules"
+21-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:14:9-54
+22        android:icon="@mipmap/ic_launcher"
+22-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:15:9-43
+23        android:label="@string/app_name"
+23-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:16:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:17:9-54
+25        android:supportsRtl="true"
+25-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:18:9-35
+26        android:theme="@style/Theme.ArticleSearch" >
+26-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:19:9-51
+27        <activity
+27-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:21:9-22:39
+28            android:name="com.codepath.articlesearch.DetailActivity"
+28-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:21:19-49
+29            android:exported="true" />
+29-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:22:13-36
+30        <activity
+30-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:23:9-31:20
+31            android:name="com.codepath.articlesearch.MainActivity"
+31-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:24:13-41
+32            android:exported="true" >
+32-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:25:13-36
+33            <intent-filter>
+33-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:26:13-30:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:27:17-69
+34-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:27:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:29:17-77
+36-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:29:27-74
+37            </intent-filter>
+38        </activity>
+39        <activity android:name="com.codepath.articlesearch.SettingsActivity" />
+39-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:32:9-54
+39-->/Users/raphaelholganza/Desktop/rmh38-CS388-001/ArticleSearch-P2/app/src/main/AndroidManifest.xml:32:19-51
+40
+41        <uses-library
+41-->[androidx.window:window:1.0.0] /Users/raphaelholganza/.gradle/caches/transforms-3/9d2218f086db9e29988cd85e2b439714/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+42            android:name="androidx.window.extensions"
+42-->[androidx.window:window:1.0.0] /Users/raphaelholganza/.gradle/caches/transforms-3/9d2218f086db9e29988cd85e2b439714/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+43            android:required="false" />
+43-->[androidx.window:window:1.0.0] /Users/raphaelholganza/.gradle/caches/transforms-3/9d2218f086db9e29988cd85e2b439714/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+44        <uses-library
+44-->[androidx.window:window:1.0.0] /Users/raphaelholganza/.gradle/caches/transforms-3/9d2218f086db9e29988cd85e2b439714/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+45            android:name="androidx.window.sidecar"
+45-->[androidx.window:window:1.0.0] /Users/raphaelholganza/.gradle/caches/transforms-3/9d2218f086db9e29988cd85e2b439714/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+46            android:required="false" />
+46-->[androidx.window:window:1.0.0] /Users/raphaelholganza/.gradle/caches/transforms-3/9d2218f086db9e29988cd85e2b439714/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+47
+48        <service
+48-->[androidx.room:room-runtime:2.4.2] /Users/raphaelholganza/.gradle/caches/transforms-3/c6173fc5946966b197f1d399b9a4ba6a/transformed/room-runtime-2.4.2/AndroidManifest.xml:25:9-28:40
+49            android:name="androidx.room.MultiInstanceInvalidationService"
+49-->[androidx.room:room-runtime:2.4.2] /Users/raphaelholganza/.gradle/caches/transforms-3/c6173fc5946966b197f1d399b9a4ba6a/transformed/room-runtime-2.4.2/AndroidManifest.xml:26:13-74
+50            android:directBootAware="true"
+50-->[androidx.room:room-runtime:2.4.2] /Users/raphaelholganza/.gradle/caches/transforms-3/c6173fc5946966b197f1d399b9a4ba6a/transformed/room-runtime-2.4.2/AndroidManifest.xml:27:13-43
+51            android:exported="false" />
+51-->[androidx.room:room-runtime:2.4.2] /Users/raphaelholganza/.gradle/caches/transforms-3/c6173fc5946966b197f1d399b9a4ba6a/transformed/room-runtime-2.4.2/AndroidManifest.xml:28:13-37
+52
+53        <provider
+53-->[androidx.emoji2:emoji2:1.0.0] /Users/raphaelholganza/.gradle/caches/transforms-3/b63c5e4117711397944d53a61d27b99d/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+54            android:name="androidx.startup.InitializationProvider"
+54-->[androidx.emoji2:emoji2:1.0.0] /Users/raphaelholganza/.gradle/caches/transforms-3/b63c5e4117711397944d53a61d27b99d/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+55            android:authorities="com.codepath.articlesearch.androidx-startup"
+55-->[androidx.emoji2:emoji2:1.0.0] /Users/raphaelholganza/.gradle/caches/transforms-3/b63c5e4117711397944d53a61d27b99d/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+56            android:exported="false" >
+56-->[androidx.emoji2:emoji2:1.0.0] /Users/raphaelholganza/.gradle/caches/transforms-3/b63c5e4117711397944d53a61d27b99d/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+57            <meta-data
+57-->[androidx.emoji2:emoji2:1.0.0] /Users/raphaelholganza/.gradle/caches/transforms-3/b63c5e4117711397944d53a61d27b99d/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+58                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+58-->[androidx.emoji2:emoji2:1.0.0] /Users/raphaelholganza/.gradle/caches/transforms-3/b63c5e4117711397944d53a61d27b99d/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+59                android:value="androidx.startup" />
+59-->[androidx.emoji2:emoji2:1.0.0] /Users/raphaelholganza/.gradle/caches/transforms-3/b63c5e4117711397944d53a61d27b99d/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+60            <meta-data
+60-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/raphaelholganza/.gradle/caches/transforms-3/845c23038b39273ff64cb798fa32dfef/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+61                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+61-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/raphaelholganza/.gradle/caches/transforms-3/845c23038b39273ff64cb798fa32dfef/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+62                android:value="androidx.startup" />
+62-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/raphaelholganza/.gradle/caches/transforms-3/845c23038b39273ff64cb798fa32dfef/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+63        </provider>
+64    </application>
+65
+66</manifest>

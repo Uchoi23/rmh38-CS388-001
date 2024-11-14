@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.codepath.articlesearch.app-mergeDebugResources-45:/layout/activity_detail.xml",
+        "source": "com.codepath.articlesearch.app-main-48:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.codepath.articlesearch.app-mergeDebugResources-45:/layout/activity_main.xml",
+        "source": "com.codepath.articlesearch.app-main-48:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.codepath.articlesearch.app-mergeDebugResources-45:/layout/item_article.xml",
+        "source": "com.codepath.articlesearch.app-main-48:/layout/item_article.xml"
+    }
+]

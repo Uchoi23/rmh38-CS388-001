@@ -1,0 +1,7 @@
+com.codepath.articlesearch.test.app-androidTest-0 C:\Users\s_cur\OneDrive\Desktop\School\NJIT\NJIT Semester 5 - Fall 24\388\sc2499-cs388-001\AtricleSearch-P2\app\build\generated\res\resValues\androidTest\debug
+com.codepath.articlesearch.test.app-androidTest-1 C:\Users\s_cur\OneDrive\Desktop\School\NJIT\NJIT Semester 5 - Fall 24\388\sc2499-cs388-001\AtricleSearch-P2\app\build\generated\res\rs\androidTest\debug
+com.codepath.articlesearch.test.app-mergeDebugAndroidTestResources-2 C:\Users\s_cur\OneDrive\Desktop\School\NJIT\NJIT Semester 5 - Fall 24\388\sc2499-cs388-001\AtricleSearch-P2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.codepath.articlesearch.test.app-mergeDebugAndroidTestResources-3 C:\Users\s_cur\OneDrive\Desktop\School\NJIT\NJIT Semester 5 - Fall 24\388\sc2499-cs388-001\AtricleSearch-P2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.codepath.articlesearch.test.app-merged_res-4 C:\Users\s_cur\OneDrive\Desktop\School\NJIT\NJIT Semester 5 - Fall 24\388\sc2499-cs388-001\AtricleSearch-P2\app\build\intermediates\merged_res\debugAndroidTest
+com.codepath.articlesearch.test.app-androidTest-5 C:\Users\s_cur\OneDrive\Desktop\School\NJIT\NJIT Semester 5 - Fall 24\388\sc2499-cs388-001\AtricleSearch-P2\app\src\androidTest\res
+com.codepath.articlesearch.test.app-androidTestDebug-6 C:\Users\s_cur\OneDrive\Desktop\School\NJIT\NJIT Semester 5 - Fall 24\388\sc2499-cs388-001\AtricleSearch-P2\app\src\androidTestDebug\res
