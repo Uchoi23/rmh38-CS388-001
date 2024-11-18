@@ -8,9 +8,6 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.codepath.articlesearch.R
 
-
-
-
 class EntryAdapter(private val mEntries: List<DisplayEntry>) : RecyclerView.Adapter<EntryAdapter.ViewHolder>() {
 
     inner class ViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView){
