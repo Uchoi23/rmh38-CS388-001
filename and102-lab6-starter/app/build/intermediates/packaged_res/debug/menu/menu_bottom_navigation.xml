@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bestSellerBooks_item"
+        android:enabled="true"
+        android:icon="@drawable/bestsellerbook_icon"
+        android:title="@string/text_bestSellerBooks"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/articleSearch_item"
+        android:enabled="true"
+        android:icon="@drawable/articlesearch_icon"
+        android:title="@string/text_articleSearch"
+        app:showAsAction="ifRoom" />
+</menu>

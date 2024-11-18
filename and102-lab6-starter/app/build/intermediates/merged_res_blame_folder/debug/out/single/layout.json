@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/raphaelholganza/.gradle/daemon/7.3.3/com.codepath.articlesearch.app-mergeDebugResources-28:/layout/fragment_best_seller_book.xml",
+        "source": "/Users/raphaelholganza/.gradle/daemon/7.3.3/com.codepath.articlesearch.app-main-31:/layout/fragment_best_seller_book.xml"
+    },
+    {
+        "merged": "/Users/raphaelholganza/.gradle/daemon/7.3.3/com.codepath.articlesearch.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "/Users/raphaelholganza/.gradle/daemon/7.3.3/com.codepath.articlesearch.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/raphaelholganza/.gradle/daemon/7.3.3/com.codepath.articlesearch.app-mergeDebugResources-28:/layout/activity_detail.xml",
+        "source": "/Users/raphaelholganza/.gradle/daemon/7.3.3/com.codepath.articlesearch.app-main-31:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "/Users/raphaelholganza/.gradle/daemon/7.3.3/com.codepath.articlesearch.app-mergeDebugResources-28:/layout/fragment_article_list.xml",
+        "source": "/Users/raphaelholganza/.gradle/daemon/7.3.3/com.codepath.articlesearch.app-main-31:/layout/fragment_article_list.xml"
+    },
+    {
+        "merged": "/Users/raphaelholganza/.gradle/daemon/7.3.3/com.codepath.articlesearch.app-mergeDebugResources-28:/layout/fragment_best_seller_books_list.xml",
+        "source": "/Users/raphaelholganza/.gradle/daemon/7.3.3/com.codepath.articlesearch.app-main-31:/layout/fragment_best_seller_books_list.xml"
+    },
+    {
+        "merged": "/Users/raphaelholganza/.gradle/daemon/7.3.3/com.codepath.articlesearch.app-mergeDebugResources-28:/layout/item_article.xml",
+        "source": "/Users/raphaelholganza/.gradle/daemon/7.3.3/com.codepath.articlesearch.app-main-31:/layout/item_article.xml"
+    },
+    {
+        "merged": "com.codepath.articlesearch.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "com.codepath.articlesearch.app-main-31:/layout/activity_main.xml"
+    }
+]
